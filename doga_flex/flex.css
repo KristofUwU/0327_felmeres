@@ -41,6 +41,7 @@ header table td, header table th {
 .flex_container{
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 
 #doboz_1{
